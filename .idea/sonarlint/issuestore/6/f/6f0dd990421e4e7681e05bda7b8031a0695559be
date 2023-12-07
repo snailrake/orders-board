@@ -1,6 +1,11 @@
 
-D
-java:S2189""Add an end condition to this loop.(” ÿÿÿÿÿ8ª´ß¦Ä1
-Y
-java:S2589"7Remove this expression which always evaluates to "true"(” ÿÿÿÿÿ8«´ß¦Ä1
-J	java:S108")Either remove or fill this block of code.(” ÿÿÿÿÿ8­´ß¦Ä1
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë¡Çøÿÿÿÿ8Èô©Ä1
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‘ ß8Èô©Ä1
+a
+java:S1854"?Remove this useless assignment to local variable "adminChoise".(«•óÛûÿÿÿÿ8’Èô©Ä1
+C	java:S131""Add a default case to this switch.(ë¡Çøÿÿÿÿ8—Èô©Ä1
+>	java:S131""Add a default case to this switch.(‘ ß8˜Èô©Ä1
+R
+java:S1481"0Remove this unused "adminChoise" local variable.(«•óÛûÿÿÿÿ8˜Èô©Ä1

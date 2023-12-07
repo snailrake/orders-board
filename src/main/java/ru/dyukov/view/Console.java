@@ -29,9 +29,15 @@ public class Console {
     public static void showOrder(Order order) {
         System.out.println(String.format("Order #%d "));
     }
-    public static void showOrders(ResultSet resultSet) throws SQLException {
+    public static void showPreparingOrders(ResultSet resultSet) throws SQLException {
         while (resultSet.next()) {
-            System.out.println(String.format("%d %t", resultSet.getInt(0), resultSet.getString(1)));
+            System.out.println(String.format("%d %t", resultSet.getInt(1), resultSet.getString(2)));
+        }
+        System.out.println("Exit - q");
+    }
+    public static void showCompletedOrders(ResultSet resultSet) throws SQLException {
+        while (resultSet.next()) {
+            System.out.println(String.format("%d %t", resultSet.getInt(2), resultSet.getString(3)));
         }
         System.out.println("Exit - q");
     }

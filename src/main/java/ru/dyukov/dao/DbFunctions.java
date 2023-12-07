@@ -1,22 +1,23 @@
 package ru.dyukov.dao;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
 
 public class DbFunctions {
-    public Connection connectionToDb(String dbname, String user, String pass) throws SQLException {
-        Connection con = null;
-        try {
-            con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/" + dbname, user, pass);
-            if (con == null) {
-                System.out.println("Connection failed");
-            }
-        }
-        catch (Exception e) {
-            e.printStackTrace();
-        }
-        return con;
+    private Connection connection;
+    public DbFunctions(Connection connection) {
+        this.connection = connection;
+    }
+    public ResultSet getPreparingOrders() throws SQLException {
+        String query = "SELECT * FROM preparing_orders";
+        PreparedStatement statement = connection.prepareStatement(query);
+        ResultSet result = statement.executeQuery();
+        return result;
+    }
+    public ResultSet getCompletedOrders() throws SQLException {
+        String query = "SELECT * FROM completed_orders";
+        PreparedStatement statement = connection.prepareStatement(query);
+        ResultSet result = statement.executeQuery();
+        return result;
     }
 }
 

@@ -1,6 +1,6 @@
 
 k
-java:S1192"IDefine a constant instead of duplicating this literal "Exit - q" 5 times.(“ƒ‹²úÿÿÿÿ8ÄâÒ¦Ä1
+java:S1192"IDefine a constant instead of duplicating this literal "Exit - q" 6 times.(“ƒ‹²úÿÿÿÿ8ÄâÒ¦Ä1
 W
 java:S1118":Add a private constructor to hide the implicit public one.(Ù˜Ô8»†¦Ä1
 G	java:S106
@@ -21,11 +21,15 @@ java:S1172",Remove this unused method parameter "order".(§æÀß8¿†¦Ä1
 G	java:S106"+Replace this use of System.out by a logger.(ÕÏ‡8ˆûÉ¦Ä1
 2
 java:S2275"Not enough arguments.(ÕÏ‡8¿†¦Ä1
-G	java:S106""+Replace this use of System.out by a logger.(Ä™ÕË8‰ûÉ¦Ä1
-I
-java:S2275"",Time conversion requires a second character.(Ä™ÕË8¿ñ‘¦Ä1
-i
-java:S2275""LTime argument is expected (long, Long, Calendar, Date and TemporalAccessor).(Ä™ÕË8Áñ‘¦Ä1
-:
-java:S2695""ResultSet indices start at 1.(Ä™ÕË8Ñ‹¦Ä1
+L	java:S106""+Replace this use of System.out by a logger.(ì¿§ùÿÿÿÿ8‰ûÉ¦Ä1
+N
+java:S2275"",Time conversion requires a second character.(ì¿§ùÿÿÿÿ8¿ñ‘¦Ä1
+n
+java:S2275""LTime argument is expected (long, Long, Calendar, Date and TemporalAccessor).(ì¿§ùÿÿÿÿ8Áñ‘¦Ä1
 L	java:S106$"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8ŠûÉ¦Ä1
+F	java:S106("+Replace this use of System.out by a logger.(¡·Ç`8’Ò«Ä1
+H
+java:S2275(",Time conversion requires a second character.(¡·Ç`8’Ò«Ä1
+h
+java:S2275("LTime argument is expected (long, Long, Calendar, Date and TemporalAccessor).(¡·Ç`8’Ò«Ä1
+L	java:S106*"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8“Ò«Ä1

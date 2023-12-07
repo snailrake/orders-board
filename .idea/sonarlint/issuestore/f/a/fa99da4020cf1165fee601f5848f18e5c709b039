@@ -1,4 +1,9 @@
 
-f
-java:S2583"DChange this condition so that it does not always evaluate to "false"(óçÌ°þÿÿÿÿ8ãöª¤Ä1
-G	java:S106"+Replace this use of System.out by a logger.(ë­ûì8éöª¤Ä1
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Üÿìæùÿÿÿÿ8†§°ªÄ1
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Üÿìæùÿÿÿÿ8Í¦ÑªÄ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8¾ÝÑªÄ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8·æ®ªÄ1
