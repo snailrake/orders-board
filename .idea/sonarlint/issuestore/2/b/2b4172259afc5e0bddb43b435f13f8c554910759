@@ -1,0 +1,8 @@
+
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ëº®×ýÿÿÿÿ8™ž¼›Ä1
+O
+java:S4925
+"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8žž¼›Ä1
+G	java:S106"+Replace this use of System.out by a logger.(ö¥û©8 ž¼›Ä1
+G	java:S106"+Replace this use of System.out by a logger.(ë­ûì8 ž¼›Ä1
