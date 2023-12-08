@@ -1,11 +1,9 @@
 
-m
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë¡Çøÿÿÿÿ8Èô©Ä1
-h
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‘ ß8Èô©Ä1
-a
-java:S1854"?Remove this useless assignment to local variable "adminChoise".(«•óÛûÿÿÿÿ8’Èô©Ä1
-C	java:S131""Add a default case to this switch.(ë¡Çøÿÿÿÿ8—Èô©Ä1
->	java:S131""Add a default case to this switch.(‘ ß8˜Èô©Ä1
-R
-java:S1481"0Remove this unused "adminChoise" local variable.(«•óÛûÿÿÿÿ8˜Èô©Ä1
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÍÖÓ@8şêÿÍÄ1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÍÖÓ@8ÿêÿÍÄ1
+9
+java:S6205"Remove this redundant block.(™‚¼™8óüşÍÄ1
+9
+java:S62052"Remove this redundant block.(™‚¼™8õüşÍÄ1

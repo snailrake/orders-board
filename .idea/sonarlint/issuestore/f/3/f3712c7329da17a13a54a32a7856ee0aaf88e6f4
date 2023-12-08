@@ -1,35 +1,23 @@
 
-k
-java:S1192"IDefine a constant instead of duplicating this literal "Exit - q" 6 times.(“ƒ‹²úÿÿÿÿ8ÄâÒ¦Ä1
+g
+java:S1192"KDefine a constant instead of duplicating this literal "Exit - 123" 5 times.(·Ó¤8óâÃÄ1
 W
-java:S1118":Add a private constructor to hide the implicit public one.(Ù˜Ô8»†¦Ä1
+java:S1118":Add a private constructor to hide the implicit public one.(Ù˜Ô8şâÃÄ1
 G	java:S106
-"+Replace this use of System.out by a logger.(ÌÍ™¸8½†¦Ä1
-G	java:S106"+Replace this use of System.out by a logger.(¼åªÕ8½†¦Ä1
-L	java:S106"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8½†¦Ä1
-G	java:S106"+Replace this use of System.out by a logger.(ú×8½†¦Ä1
-G	java:S106"+Replace this use of System.out by a logger.(ÊÅ˜ë8½†¦Ä1
-F	java:S106"+Replace this use of System.out by a logger.(¿ÜñA8¿†¦Ä1
-L	java:S106"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8¿†¦Ä1
-G	java:S106"+Replace this use of System.out by a logger.(ú×8–®¼¦Ä1
-G	java:S106"+Replace this use of System.out by a logger.(üõ‚8 İ¼¦Ä1
-L	java:S106"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8£İ¼¦Ä1
-F	java:S106"+Replace this use of System.out by a logger.(ÕØÌ8¤İ¼¦Ä1
-L	java:S106"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8‡ãÈ¦Ä1
-I
-java:S1172",Remove this unused method parameter "order".(§æÀß8¿†¦Ä1
-G	java:S106"+Replace this use of System.out by a logger.(ÕÏ‡8ˆûÉ¦Ä1
-2
-java:S2275"Not enough arguments.(ÕÏ‡8¿†¦Ä1
-L	java:S106""+Replace this use of System.out by a logger.(ì¿§ùÿÿÿÿ8‰ûÉ¦Ä1
-N
-java:S2275"",Time conversion requires a second character.(ì¿§ùÿÿÿÿ8¿ñ‘¦Ä1
-n
-java:S2275""LTime argument is expected (long, Long, Calendar, Date and TemporalAccessor).(ì¿§ùÿÿÿÿ8Áñ‘¦Ä1
-L	java:S106$"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8ŠûÉ¦Ä1
-F	java:S106("+Replace this use of System.out by a logger.(¡·Ç`8’Ò«Ä1
-H
-java:S2275(",Time conversion requires a second character.(¡·Ç`8’Ò«Ä1
-h
-java:S2275("LTime argument is expected (long, Long, Calendar, Date and TemporalAccessor).(¡·Ç`8’Ò«Ä1
-L	java:S106*"+Replace this use of System.out by a logger.(“ƒ‹²úÿÿÿÿ8“Ò«Ä1
+"+Replace this use of System.out by a logger.(ÌÍ™¸8ÿâÃÄ1
+G	java:S106"+Replace this use of System.out by a logger.(¼åªÕ8€âÃÄ1
+F	java:S106"+Replace this use of System.out by a logger.(·Ó¤8€âÃÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ú×8€âÃÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ÊÅ˜ë8âÃÄ1
+F	java:S106"+Replace this use of System.out by a logger.(¿ÜñA8âÃÄ1
+F	java:S106"+Replace this use of System.out by a logger.(·Ó¤8âÃÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ú×8âÃÄ1
+G	java:S106"+Replace this use of System.out by a logger.(üõ‚8âÃÄ1
+F	java:S106"+Replace this use of System.out by a logger.(·Ó¤8‚âÃÄ1
+G	java:S106"+Replace this use of System.out by a logger.(Õıÿ“8‚âÃÄ1
+F	java:S106"+Replace this use of System.out by a logger.(‘†º}8„âÃÄ1
+F	java:S106 "+Replace this use of System.out by a logger.(·Ó¤8…âÃÄ1
+G	java:S106$"+Replace this use of System.out by a logger.(Š§Óü8†âÃÄ1
+F	java:S106&"+Replace this use of System.out by a logger.(·Ó¤8†âÃÄ1
+T
+java:S1128"2Remove this unused import 'ru.dyukov.model.Order'.(ËµÛ÷üÿÿÿÿ8¼²´ÉÄ1

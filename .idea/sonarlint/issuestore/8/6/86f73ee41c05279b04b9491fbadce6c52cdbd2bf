@@ -1,6 +1,8 @@
 
-S
-java:S6437"6Revoke and change this password, as it is compromised.(‹í¾Î8Ì‰”ªÄ1
-G	java:S106"+Replace this use of System.out by a logger.(ë­ûì8Ì‰”ªÄ1
-I
-java:S1481"'Remove this unused "db" local variable.(ÙÉÒÕûÿÿÿÿ8¦õªÄ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8û¥ÉÄ1
+R
+java:S6437"6Revoke and change this password, as it is compromised.(ÜıÇH8ù»¨ÉÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ë­ûì8ü¥ÉÄ1
+T
+java:S1128"2Remove this unused import 'ru.dyukov.model.Order'.(ËµÛ÷üÿÿÿÿ8Í»¥ÉÄ1
