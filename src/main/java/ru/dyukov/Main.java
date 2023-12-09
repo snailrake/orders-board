@@ -7,10 +7,15 @@ import ru.dyukov.model.Order;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import org.postgresql.ds.PGSimpleDataSource;
 
 public class Main {
     public static void main(String[] args) throws SQLException {
-        try (Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/orders_board", "postgres", "1234")) {
+        PGSimpleDataSource dataSource = new PGSimpleDataSource();
+        dataSource.setUrl("jdbc:postgresql://localhost:5432/orders_board");
+        dataSource.setUser("postgres");
+        dataSource.setPassword("1234");
+        try (Connection con = dataSource.getConnection()) {
             if (con == null) {
                 System.out.println("Connection failed");
             }

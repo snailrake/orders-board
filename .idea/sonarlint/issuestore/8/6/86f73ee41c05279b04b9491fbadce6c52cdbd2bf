@@ -1,8 +1,8 @@
 
 {
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8û¥ÉÄ1
-R
-java:S6437"6Revoke and change this password, as it is compromised.(ÜıÇH8ù»¨ÉÄ1
-G	java:S106"+Replace this use of System.out by a logger.(ë­ûì8ü¥ÉÄ1
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ğ†ÊùÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ë­ûì8Ñ†ÊùÄ1
 T
-java:S1128"2Remove this unused import 'ru.dyukov.model.Order'.(ËµÛ÷üÿÿÿÿ8Í»¥ÉÄ1
+java:S1128"2Remove this unused import 'ru.dyukov.model.Order'.(ËµÛ÷üÿÿÿÿ8Ó†ÊùÄ1
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8ûõÊùÄ1
